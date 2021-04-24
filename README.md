@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/shakilahmed80/shakilahmed80/main/Game.png"/></a>
+<a href=""><img align="center" src="https://raw.githubusercontent.com/shakilahmed80/shakilahmed80/main/Game.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
 <h3 align="center">An undergraduate BSc student (CSE) at the North South University</h3>
