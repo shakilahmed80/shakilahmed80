@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/shakilahmed80/shakilahmed80/main/Game.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Shakil Ahmed</h1>
-<h3 align="center">An undergraduate BSc student (CSE) at the North South University Department of ECE(Major in CSE).</h3>
+<h3 align="center">An undergraduate BSc student (CSE) at the North South University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmed80&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmed80" /> </p>
 
@@ -15,6 +15,7 @@
 
 
 
+## Top Languages :
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmed80)
 
 
