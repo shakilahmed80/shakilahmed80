@@ -15,6 +15,8 @@
 
 
 
+## Top Languages :
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahmed80&show_icons=true&theme=radical)
 
 
 ## My Github Status :
