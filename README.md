@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,Java,C++**
 
-- 📫 How to reach me **shakilahmednsu21@gmail.com**
+- 📫 How to reach me **s.ahmednsu21@gmail.com**
 
 - ⚡ Fun fact **I love designing**
 
